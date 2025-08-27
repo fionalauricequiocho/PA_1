@@ -126,7 +126,7 @@ Conclusion
 
 This programming assignment highlights fundamental Python concepts. Through solving these problems, I was able to:
 
-8 Define and use functions effectively.
+* Define and use functions effectively.
 * Practice string manipulation and list operations.
 * Apply indexing and slicing to extract values.
 * Understand how to break down problems step by step and implement working solutions in Python.
