@@ -1,4 +1,4 @@
-Programming Assignment 1 – Introduction to Python Programming
+## Programming Assignment 1 – Introduction to Python Programming
 
 Summary
 
